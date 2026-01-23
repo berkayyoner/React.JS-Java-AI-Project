@@ -23,7 +23,7 @@ This project includes my personal website server files made by React.Js and Java
 
 ## Database informations
 * **Database user name:** berkay
-* **Şifre:** 1234
+* **Password:** 1234
 * **Port:** 1521
 * **Service name:** XEPDB1
 
